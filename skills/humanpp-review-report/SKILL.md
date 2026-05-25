@@ -1,6 +1,6 @@
 ---
 name: humanpp-review-report
-description: Produce structured review reports and final decisions for Review -> Result.
+description: Produce structured review reports with findings, scope compliance, validation gaps, and final decisions. Use when reviewing work produced by a human, agent, PR, branch, or previous implementation session.
 ---
 
 # humanpp-review-report

@@ -1,6 +1,6 @@
 ---
 name: humanpp-implementation-loop
-description: Guide scoped implementation with validation and reporting for Implementation <-> Review.
+description: Guide scoped implementation work with opening checks, source checks, validation, correction passes, and final reporting. Use when an agent or developer is implementing, fixing, validating, or finalizing a task.
 ---
 
 # humanpp-implementation-loop

@@ -1,4 +1,4 @@
-# humanpp-skills
+# Human++ Skills
 
 Skills and workflow assets for implementing Human++.
 

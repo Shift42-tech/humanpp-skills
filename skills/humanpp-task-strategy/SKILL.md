@@ -1,6 +1,6 @@
 ---
 name: humanpp-task-strategy
-description: Turn rough requests into bounded execution strategy for Analysis -> Strategy.
+description: Turn rough requests, feature ideas, bug reports, or stakeholder notes into bounded execution strategies. Use when preparing GitHub issues, task briefs, implementation handoffs, or agent opening prompts.
 ---
 
 # humanpp-task-strategy
